@@ -142,11 +142,8 @@ https://bit.ly/4nDAgZ4
 
 ########## CANAIS ESPORTES ##########
 
-#EXTINF:-1 tvg-id="" type="live" tvg-name="Nosso Futebol 1" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/e/eb/Logotipo_nosso_futebol.png" group-title="CANAIS",Nosso Futebol 1
-https://nanacloud.filevideo.live/Sb9KrF5pLq/index.m3u8
-
-#EXTINF:-1 tvg-id="" type="live" tvg-name="Nosso Futebol 2" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/e/eb/Logotipo_nosso_futebol.png" group-title="CANAIS",Nosso Futebol 2
-https://bit.ly/48Io846
+#EXTINF:-1 tvg-id="" type="live" tvg-name="Sportv" tvg-logo="https://i.imgur.com/NPNdZEE.jpeg" group-title="CANAIS",Sportv
+https://bit.ly/4olGkp5
 
 #EXTINF:-1 tvg-id="" type="live" tvg-name="ESPN" tvg-logo="https://i.imgur.com/87qr4Et.jpeg" group-title="CANAIS",ESPN
 https://bit.ly/4gXMJEs
@@ -158,7 +155,6 @@ https://bit.ly/48IpSdE
 
 #EXTINF:-1 tvg-id="" type="live" tvg-name="Band" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/21/Rede_Bandeirantes_logo_2011.svg" group-title="CANAIS",Band
 https://bit.ly/4hbzXlT
-
 
 
 
