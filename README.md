@@ -3,7 +3,7 @@
 Lista gratuita e atualizada para IPTV com diversos canais, filmes e séries.  
 Disponível em formato **.m3u8**, pronta para uso em players compatíveis.
 
-🔗 **Lista destacada:** [bit.ly/4TeamIPTV](https://bit.ly/4TeamIPTV)
+🔗 **Lista destacada:** https://bit.ly/4TeamIPTV
 
 ---
 
