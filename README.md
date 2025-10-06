@@ -31,7 +31,8 @@ Apenas indexamos links **já existentes na internet** para facilitar o acesso.
 
 ## ⚠️ Nota
 - O conteúdo pode variar de acordo com a disponibilidade dos links originais.
-- Caso algum canal ou filme pare de funcionar, pode ser que o link de origem tenha saído do ar.
+- Caso algum canal ou filme pare de funcionar, pode ser que o link de origem tenha saído do ar (venha [aqui](https://github.com/Sage-BR/4TListaIPTV/issues) no git em iissues e report).
+- Evite pausas, as fontes são do googledriver, pausas longas podem levar o video resetar.
 
 ---
 ✌️ **Projeto mantido pela comunidade 4Team**
