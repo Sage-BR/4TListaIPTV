@@ -5,7 +5,7 @@ Disponível em formato **.m3u8**, pronta para uso em players compatíveis.
 
 🔗 **Lista M3U:** https://bit.ly/4t_iptv
 
-🔗 **4TeamBR Player:** (http://m3u.4teambr.com)  (PC, Mobile)
+🔗 **4TeamBR Player:** [http://m3u.4teambr.com](http://m3u.4teambr.com)  (PC, Mobile)
 
 ---
 
@@ -33,7 +33,7 @@ Apenas indexamos links **já existentes na internet** para facilitar o acesso.
 
 ## ⚠️ Nota
 - O conteúdo pode variar de acordo com a disponibilidade dos links originais.
-- Caso algum canal ou filme pare de funcionar, pode ser que o link de origem tenha saído do ar (venha [aqui](https://github.com/Sage-BR/4TListaIPTV/issues) no git em iissues e report).
+- Caso algum canal ou filme pare de funcionar, pode ser que o link de origem tenha saído do ar: [ACESSE AQUI](https://github.com/Sage-BR/4TListaIPTV/issues) no git em iissues e report).
 - Evite pausas, as fontes são do googledriver, pausas longas podem levar o video resetar.
 
 ---
