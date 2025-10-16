@@ -5,7 +5,7 @@ Disponível em formato **.m3u8**, pronta para uso em players compatíveis.
 
 🔗 **Lista M3U:** https://bit.ly/4t_iptv
 
-🔗 **Player:** http://m3u.4teambr.com  (PC, Mobile)
+🔗 **4TeamBR Player:** http://m3u.4teambr.com  (PC, Mobile)
 
 ---
 
