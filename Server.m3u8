@@ -59,8 +59,10 @@ http://191.252.92.118/movie/animes/GuerreirasdoKPop2025.mp4
 http://191.252.92.118/movie/animes/AfroSamuraiRessurreicao.mp4
 #EXTINF:-1 tvg-id="" type="movie" tvg-name="Boruto: Naruto the Movie" tvg-logo="https://i.imgur.com/z4Mz2lf.jpeg" group-title="ANIMES",Boruto: Naruto the Movie
 http://191.252.92.118/movie/animes/BorutoNarutoTheMovie2015.mp4
+#EXTINF:-1 tvg-id="" type="movie" tvg-name="Nanatsu no Taizai Movie" tvg-logo="https://i.imgur.com/Ji651sG.png" group-title="ANIMES",Nanatsu no Taizai Movie
+http://191.252.92.118/movie/animes/nanatsunotaizaimovie1.mp4
 #EXTINF:-1 tvg-id="" type="movie" tvg-name="Nanatsu no Taizai Movie 2" tvg-logo="https://i.imgur.com/Do9lgnB.jpeg" group-title="ANIMES",Nanatsu no Taizai Movie 2
-http://191.252.92.118/movie/animes/BorutoNarutoTheMovie2015.mp4
+http://191.252.92.118/movie/animes/nanatsunotaizaimovie2.mp4
 #EXTINF:-1 tvg-id="" type="movie" tvg-name="Nanatsu no Taizai: Ensa no Edinburgh" tvg-logo="https://i.imgur.com/SOP0EK7.jpeg" group-title="ANIMES",Nanatsu no Taizai: Ensa no Edinburgh
 http://191.252.92.118/movie/animes/TheSevenDeadlySinsGrudgeEdinburgh1.mp4
 #EXTINF:-1 tvg-id="" type="movie" tvg-name="Nanatsu no Taizai: Ensa no Edinburgh 2" tvg-logo="https://i.imgur.com/CprJPoD.png" group-title="ANIMES",Nanatsu no Taizai: Ensa no Edinburgh 2
