@@ -7,6 +7,16 @@ http://191.252.92.118/pix.png
 #EXTINF:-1 tvg-id="" tvg-logo="https://placehold.co/220x120?text=pix:+4teambrsg@gmail.com" group-title="DOAÇÃO",pix: 4teambrsg@gmail.com
 https://drive.usercontent.google.com/download?id=1h9JRZ2x6pqWrSUMeuAExwNjuqFXMHBKj&export=download&authuser=0&confirm=t&uuid=b505288f-6ae1-4545-b88e-52280d6aef03&at=AKSUxGNYlmtUVGDlTJh6WQPIRyGh%3A1759401016267
 
+#EXTINF:-1 tvg-id="" type="movie" tvg-logo="https://i.imgur.com/G9p7ygN.png" group-title="DOAÇÃO",Ajude com uma doação via Pix (QR Code)
+http://191.252.92.118/pix.png
+#EXTINF:-1 tvg-id="" tvg-logo="https://placehold.co/220x120?text=pix:+4teambrsg@gmail.com" group-title="DOAÇÃO",pix: 4teambrsg@gmail.com
+http://191.252.92.118/movie/
+
+#EXTINF:-1 tvg-id="" type="series" tvg-logo="https://i.imgur.com/G9p7ygN.png" group-title="DOAÇÃO",Ajude com uma doação via Pix (QR Code)
+http://191.252.92.118/pix.png
+#EXTINF:-1 tvg-id="" tvg-logo="https://placehold.co/220x120?text=pix:+4teambrsg@gmail.com" group-title="DOAÇÃO",pix: 4teambrsg@gmail.com
+http://191.252.92.118/series/
+
 ########## FILMES LANÇAMENTOS ##########
 
 #EXTINF:-1 tvg-id="" type="movie" tvg-name="Anônimo 2" tvg-logo="https://i.imgur.com/xTvnCaa.png"  group-title="LANÇAMENTOS",Anônimo 2 (2025)
@@ -1204,6 +1214,33 @@ http://191.252.92.118/series/animes/SpyxFamily/season1/11.mp4
 #EXTINF:-1 tvg-id="" type="series" tvg-name="Spy x Family S01E12" tvg-logo="https://i.imgur.com/NVaatlu.png" group-title="SERIES: SPY X FAMILY",Spy x Family S01E12
 http://191.252.92.118/series/animes/SpyxFamily/season1/12.mp4
 
+#EXTINF:-1 tvg-id="" type="series" tvg-name="Spy x Family S01E01" tvg-logo="https://i.imgur.com/yr0ik55.jpeg" group-title="SERIES: SPY X FAMILY 1-2",Spy x Family S01E01
+http://191.252.92.118/series/animes/SpyxFamily/season1-2/13.mp4
+#EXTINF:-1 tvg-id="" type="series" tvg-name="Spy x Family S01E02" tvg-logo="https://i.imgur.com/yr0ik55.jpeg" group-title="SERIES: SPY X FAMILY 1-2",Spy x Family S01E02
+http://191.252.92.118/series/animes/SpyxFamily/season1-2/14.mp4
+#EXTINF:-1 tvg-id="" type="series" tvg-name="Spy x Family S01E03" tvg-logo="https://i.imgur.com/yr0ik55.jpeg" group-title="SERIES: SPY X FAMILY 1-2",Spy x Family S01E03
+http://191.252.92.118/series/animes/SpyxFamily/season1-2/15.mp4
+#EXTINF:-1 tvg-id="" type="series" tvg-name="Spy x Family S01E04" tvg-logo="https://i.imgur.com/yr0ik55.jpeg" group-title="SERIES: SPY X FAMILY 1-2",Spy x Family S01E04
+http://191.252.92.118/series/animes/SpyxFamily/season1-2/16.mp4
+#EXTINF:-1 tvg-id="" type="series" tvg-name="Spy x Family S01E05" tvg-logo="https://i.imgur.com/yr0ik55.jpeg" group-title="SERIES: SPY X FAMILY 1-2",Spy x Family S01E05
+http://191.252.92.118/series/animes/SpyxFamily/season1-2/17.mp4
+#EXTINF:-1 tvg-id="" type="series" tvg-name="Spy x Family S01E06" tvg-logo="https://i.imgur.com/yr0ik55.jpeg" group-title="SERIES: SPY X FAMILY 1-2",Spy x Family S01E06
+http://191.252.92.118/series/animes/SpyxFamily/season1-2/18.mp4
+#EXTINF:-1 tvg-id="" type="series" tvg-name="Spy x Family S01E07" tvg-logo="https://i.imgur.com/yr0ik55.jpeg" group-title="SERIES: SPY X FAMILY 1-2",Spy x Family S01E07
+http://191.252.92.118/series/animes/SpyxFamily/season1-2/19.mp4
+#EXTINF:-1 tvg-id="" type="series" tvg-name="Spy x Family S01E08" tvg-logo="https://i.imgur.com/yr0ik55.jpeg" group-title="SERIES: SPY X FAMILY 1-2",Spy x Family S01E08
+http://191.252.92.118/series/animes/SpyxFamily/season1-2/20.mp4
+#EXTINF:-1 tvg-id="" type="series" tvg-name="Spy x Family S01E09" tvg-logo="https://i.imgur.com/yr0ik55.jpeg" group-title="SERIES: SPY X FAMILY 1-2",Spy x Family S01E09
+http://191.252.92.118/series/animes/SpyxFamily/season1-2/21.mp4
+#EXTINF:-1 tvg-id="" type="series" tvg-name="Spy x Family S01E10" tvg-logo="https://i.imgur.com/yr0ik55.jpeg" group-title="SERIES: SPY X FAMILY 1-2",Spy x Family S01E10
+http://191.252.92.118/series/animes/SpyxFamily/season1-2/22.mp4
+#EXTINF:-1 tvg-id="" type="series" tvg-name="Spy x Family S01E11" tvg-logo="https://i.imgur.com/yr0ik55.jpeg" group-title="SERIES: SPY X FAMILY 1-2",Spy x Family S01E11
+http://191.252.92.118/series/animes/SpyxFamily/season1-2/23.mp4
+#EXTINF:-1 tvg-id="" type="series" tvg-name="Spy x Family S01E12" tvg-logo="https://i.imgur.com/yr0ik55.jpeg" group-title="SERIES: SPY X FAMILY 1-2",Spy x Family S01E12
+http://191.252.92.118/series/animes/SpyxFamily/season1-2/24.mp4
+#EXTINF:-1 tvg-id="" type="series" tvg-name="Spy x Family S01E13" tvg-logo="https://i.imgur.com/yr0ik55.jpeg" group-title="SERIES: SPY X FAMILY 1-2",Spy x Family S01E13
+http://191.252.92.118/series/animes/SpyxFamily/season1-2/25.mp4
+
 #EXTINF:-1 tvg-id="" type="series" tvg-name="Spy x Family S02E01" tvg-logo="https://i.imgur.com/P4WCVf9.jpeg" group-title="SERIES: SPY X FAMILY 2",Spy x Family S02E01
 http://191.252.92.118/series/animes/SpyxFamily/season2/1.mp4
 #EXTINF:-1 tvg-id="" type="series" tvg-name="Spy x Family S02E02" tvg-logo="https://i.imgur.com/P4WCVf9.jpeg" group-title="SERIES: SPY X FAMILY 2",Spy x Family S02E02
@@ -1229,6 +1266,13 @@ http://191.252.92.118/series/animes/SpyxFamily/season2/11.mp4
 #EXTINF:-1 tvg-id="" type="series" tvg-name="Spy x Family S02E12" tvg-logo="https://i.imgur.com/P4WCVf9.jpeg" group-title="SERIES: SPY X FAMILY 2",Spy x Family S02E12
 http://191.252.92.118/series/animes/SpyxFamily/season2/12.mp4
 
+#EXTINF:-1 tvg-id="" type="series" tvg-name="Sanda S01E01" tvg-logo="https://i.imgur.com/8LKdNDd.jpeg" group-title="SERIES: SANDA",Sanda S01E01
+http://191.252.92.118/series/animes/Sanda/season1/1.mp4
+#EXTINF:-1 tvg-id="" type="series" tvg-name="Sanda S01E02" tvg-logo="https://i.imgur.com/8LKdNDd.jpeg" group-title="SERIES: SANDA",Sanda S01E02
+http://191.252.92.118/series/animes/Sanda/season1/2.mp4
+#EXTINF:-1 tvg-id="" type="series" tvg-name="Sanda S01E03" tvg-logo="https://i.imgur.com/8LKdNDd.jpeg" group-title="SERIES: SANDA",Sanda S01E03
+http://191.252.92.118/series/animes/Sanda/season1/3.mp4
+
 #EXTINF:-1 tvg-id="" type="series" tvg-name="Spy x Family S03E01" tvg-logo="https://i.imgur.com/evNx8zP.jpeg" group-title="SERIES: SPY X FAMILY 3",Spy x Family S03E01
 http://191.252.92.118/series/animes/SpyxFamily/season3/1.mp4
 #EXTINF:-1 tvg-id="" type="series" tvg-name="Spy x Family S03E02" tvg-logo="https://i.imgur.com/evNx8zP.jpeg" group-title="SERIES: SPY X FAMILY 3",Spy x Family S03E02
@@ -1248,8 +1292,3 @@ http://191.252.92.118/series/animes/Kaijuu8/hoshina.mp4
 http://191.252.92.118/series/animes/onepunchman/season3/1.mp4
 #EXTINF:-1 tvg-id="" type="series" tvg-name="One Punch Man S03E02" tvg-logo="https://i.imgur.com/hRL1qso.jpeg" group-title="SERIES: ONE PUNCH MAN 3",One Punch Man S03E02
 http://191.252.92.118/series/animes/onepunchman/season3/2.mp4
-
-########## CANAIS ##########
-
-#EXTINF:-1 tvg-id="" tvg-name="Band" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/21/Rede_Bandeirantes_logo_2011.svg" group-title="CANAIS",Band
-https://hqf6tcxuhk.singularcdn.net.br/live/019498af-1fdf-7df5-86bd-e4a6f588d6a7/s1/playlist_nova-a.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmlfc3ViIjoiLzAxOTQ5OGFmLTFmZGYtN2RmNS04NmJkLWU0YTZmNTg4ZDZhNy8iLCJ1aWQiOiJjMzJmNmRhZC1kM2EwLTQ0ZDYtYmQ5OC01YzlkMzBhNjBmZTkiLCJyYXUiOm51bGwsImJleSI6ZmFsc2UsImlpcCI6ZmFsc2UsIm5iZiI6MTc2MDU1MTc0OCwiaWF0IjoxNzYwNTUxNzQ4LCJleHAiOjE3OTIwODc3NDgsImp0aSI6ImMzMmY2ZGFkLWQzYTAtNDRkNi1iZDk4LTVjOWQzMGE2MGZlOSIsImlzcyI6IlNwYWxsYSJ9.iS8Vg1b6_RgWX4CazjYrLXU5tv-mLK4GZ7c6zb6xfJ0&uid=c32f6dad-d3a0-44d6-bd98-5c9d30a60fe9
