@@ -3,7 +3,7 @@
 Lista gratuita e atualizada para IPTV com diversos animes, filmes e doramas.  
 Disponível em formato **.m3u8**, pronta para uso em players compatíveis.
 
-🔗 **Lista M3U:** https://bit.ly/4t_iptv
+🔗 **Lista M3U:** https://tinyurl.com/m3u-animes
 
 🔗 **4TeamBR Player:** [http://m3u.4teambr.com](http://m3u.4teambr.com)  (PC, Mobile)
 
